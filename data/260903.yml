@@ -1,0 +1,63 @@
+about:
+  description: Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+  license: Apache-2.0
+  homepage: https://lean.io
+  head: f24fc0d
+  archived: false
+  latestVersion: v2.4.0.1
+  collectedAt: 2026-09-03T04:59:16Z
+timeline:
+  created: 2014-11-28
+  lastCommit: 2026-09-01
+  lastRelease: 2017-08-08
+popularity:
+  star: 21462
+  watcher: 489
+  fork: 5212
+  release: 8
+  contributor: 228
+  pullRequest: 922
+  issue: 3689
+language:
+  C#: 32482648
+  Python: 1904049
+  Jupyter Notebook: 40101
+  HTML: 17280
+  CSS: 11493
+  Shell: 4170
+  Dockerfile: 1307
+  Batchfile: 411
+totalLine: 34461459
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 51
+    openPR: 10
+    closedIssue: 21
+    openIssue: 11
+    commit: 63
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 139
+    openPR: 13
+    closedIssue: 39
+    openIssue: 17
+    commit: 191
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 206
+    openPR: 16
+    closedIssue: 64
+    openIssue: 27
+    commit: 275
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 407
+    openPR: 16
+    closedIssue: 160
+    openIssue: 46
+    commit: 493
