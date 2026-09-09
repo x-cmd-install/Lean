@@ -7,7 +7,7 @@ Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - **Latest release**: `v2.4.0.1` (2017-08-08)
 - **Last commit**: 2026-09-04
 - **License**: Apache-2.0
-- **Stars**: 21544 · **Forks**: 5232 · **Open issues**: 3694 · **Contributors**: 226
+- **Stars**: 21554 · **Forks**: 5233 · **Open issues**: 3697 · **Contributors**: 226
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Lean> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:23:40Z._
+_Last regenerated: 2026-09-09T20:45:01Z._
