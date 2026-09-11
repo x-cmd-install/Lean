@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.4.0.1"
   latestRelease: "v2.4.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:26:05Z
+  collectedAt: 2026-09-11T18:18:12Z
 timeline:
   created: 2014-11-28
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2017-08-08
   lastPrerelease: 
 popularity:
-  star: 21580
+  star: 21588
   watcher: 491
-  fork: 5239
+  fork: 5242
   release: 8
   contributor: 227
   pullRequest: 6015
@@ -90,7 +90,7 @@ total:
   commit: 13347
 ---
 path: /home/runner/.x-repo/github.com/QuantConnect/Lean
-collectedAt: 2026-09-11T06:26:39Z
+collectedAt: 2026-09-11T18:18:39Z
 loc:
   CSharp:
     code: 434594
