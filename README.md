@@ -14,11 +14,11 @@ x install Lean
 
 ## Code insight
 
-Total: **502,849** lines of code across **5039** files in the top 5 languages.
+Total: **502,884** lines of code across **5039** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 455,499 | 228,246 | 82,654 | 4464 |
+| CSharp | 455,534 | 228,250 | 82,661 | 4464 |
 | Python | 22,788 | 11,417 | 7,554 | 535 |
 | Xml | 19,009 | 186 | 4 | 7 |
 | MsBuild | 2,284 | 0 | 1 | 23 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,299 · **Forks**: 5,356 · **Open issues**: 3,765 · **Contributors**: 236
+- **Stars**: 22,317 · **Forks**: 5,363 · **Open issues**: 3,766 · **Contributors**: 236
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 5184 · **Open PRs**: 14 · **Closed issues**: 3505 · **Open issues**: 260 · **Commits**: 13437
+- **Releases**: 8 · **Merged PRs**: 5188 · **Open PRs**: 14 · **Closed issues**: 3506 · **Open issues**: 260 · **Commits**: 13441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 54 | 9 | 21 | 31 | 92 |
-| last60d | 2026-08-31 | 0 | 93 | 10 | 43 | 35 | 157 |
-| 90d | 2026-08-01 | 0 | 153 | 13 | 73 | 38 | 233 |
-| last180d | 2026-05-03 | 0 | 268 | 13 | 102 | 48 | 388 |
-| 360d | 2025-11-04 | 0 | 448 | 13 | 175 | 66 | 585 |
-| last720d | 2024-11-09 | 0 | 811 | 13 | 396 | 107 | 849 |
+| 30d | 2026-10-01 | 0 | 53 | 9 | 19 | 31 | 97 |
+| last60d | 2026-09-01 | 0 | 96 | 10 | 43 | 35 | 162 |
+| 90d | 2026-08-02 | 0 | 156 | 13 | 73 | 38 | 238 |
+| last180d | 2026-05-04 | 0 | 271 | 13 | 102 | 48 | 393 |
+| 360d | 2025-11-05 | 0 | 452 | 13 | 176 | 66 | 590 |
+| last720d | 2024-11-10 | 0 | 815 | 13 | 397 | 107 | 853 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Lean lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:15:42Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:59:23Z._
