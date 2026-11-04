@@ -26,13 +26,13 @@ Total: **504,131** lines of code across **5046** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,361 · **Forks**: 5,374 · **Open issues**: 3,773 · **Contributors**: 236
+- **Stars**: 22,377 · **Forks**: 5,376 · **Open issues**: 3,776 · **Contributors**: 236
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 5191 · **Open PRs**: 17 · **Closed issues**: 3506 · **Open issues**: 267 · **Commits**: 13444
+- **Releases**: 8 · **Merged PRs**: 5191 · **Open PRs**: 22 · **Closed issues**: 3506 · **Open issues**: 270 · **Commits**: 13444
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 53 | 13 | 18 | 37 | 85 |
-| last60d | 2026-09-04 | 0 | 97 | 14 | 41 | 42 | 163 |
-| 90d | 2026-08-05 | 0 | 155 | 16 | 71 | 45 | 227 |
-| last180d | 2026-05-07 | 0 | 264 | 16 | 98 | 54 | 377 |
-| 360d | 2025-11-08 | 0 | 454 | 16 | 174 | 73 | 591 |
-| last720d | 2024-11-13 | 0 | 817 | 16 | 396 | 112 | 856 |
+| 30d | 2026-10-05 | 0 | 50 | 19 | 18 | 40 | 85 |
+| last60d | 2026-09-05 | 0 | 97 | 20 | 40 | 45 | 163 |
+| 90d | 2026-08-06 | 0 | 153 | 21 | 71 | 48 | 227 |
+| last180d | 2026-05-08 | 0 | 262 | 21 | 98 | 57 | 377 |
+| 360d | 2025-11-09 | 0 | 454 | 21 | 174 | 76 | 591 |
+| last720d | 2024-11-14 | 0 | 813 | 21 | 393 | 115 | 856 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Lean lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:21:23Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:56:28Z._
