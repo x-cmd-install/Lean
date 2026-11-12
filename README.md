@@ -14,12 +14,12 @@ x install Lean
 
 ## Code insight
 
-Total: **506,936** lines of code across **5057** files in the top 5 languages.
+Total: **507,704** lines of code across **5061** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 459,255 | 228,990 | 83,252 | 4477 |
-| Python | 23,101 | 11,516 | 7,628 | 540 |
+| CSharp | 460,019 | 229,123 | 83,354 | 4481 |
+| Python | 23,105 | 11,518 | 7,627 | 540 |
 | Xml | 19,009 | 186 | 4 | 7 |
 | MsBuild | 2,284 | 0 | 1 | 23 |
 | Json | 2,096 | 0 | 161 | 10 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0.1` (2017-08-08)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 22,481 · **Forks**: 5,407 · **Open issues**: 3,795 · **Contributors**: 237
+- **Stars**: 22,497 · **Forks**: 5,409 · **Open issues**: 3,809 · **Contributors**: 238
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 5210 · **Open PRs**: 21 · **Closed issues**: 3517 · **Open issues**: 278 · **Commits**: 13463
+- **Releases**: 8 · **Merged PRs**: 5220 · **Open PRs**: 19 · **Closed issues**: 3527 · **Open issues**: 282 · **Commits**: 13473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 61 | 16 | 27 | 40 | 109 |
-| last60d | 2026-09-12 | 0 | 111 | 18 | 46 | 53 | 172 |
-| 90d | 2026-08-13 | 0 | 155 | 20 | 77 | 56 | 236 |
-| last180d | 2026-05-15 | 0 | 274 | 20 | 107 | 64 | 398 |
-| 360d | 2025-11-16 | 0 | 468 | 20 | 180 | 84 | 614 |
-| last720d | 2024-11-21 | 0 | 827 | 20 | 397 | 123 | 867 |
+| 30d | 2026-10-13 | 0 | 70 | 14 | 35 | 42 | 130 |
+| last60d | 2026-09-13 | 0 | 121 | 16 | 55 | 57 | 193 |
+| 90d | 2026-08-14 | 0 | 161 | 18 | 83 | 59 | 257 |
+| last180d | 2026-05-16 | 0 | 284 | 18 | 117 | 68 | 419 |
+| 360d | 2025-11-17 | 0 | 477 | 18 | 190 | 88 | 635 |
+| last720d | 2024-11-22 | 0 | 837 | 18 | 404 | 127 | 877 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Lean lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:31:02Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:08:35Z._
