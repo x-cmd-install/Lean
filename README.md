@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,606 · **Forks**: 5,439 · **Open issues**: 3,871 · **Contributors**: 243
+- **Stars**: 22,626 · **Forks**: 5,445 · **Open issues**: 3,874 · **Contributors**: 243
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 5262 · **Open PRs**: 14 · **Closed issues**: 3563 · **Open issues**: 308 · **Commits**: 13515
+- **Releases**: 8 · **Merged PRs**: 5262 · **Open PRs**: 15 · **Closed issues**: 3563 · **Open issues**: 311 · **Commits**: 13515
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 101 | 9 | 67 | 65 | 203 |
-| last60d | 2026-09-20 | 0 | 154 | 11 | 86 | 82 | 271 |
-| 90d | 2026-08-21 | 0 | 187 | 13 | 107 | 86 | 331 |
-| last180d | 2026-05-23 | 0 | 321 | 13 | 150 | 95 | 505 |
-| 360d | 2025-11-24 | 0 | 515 | 13 | 220 | 115 | 722 |
-| last720d | 2024-11-29 | 0 | 872 | 13 | 438 | 154 | 909 |
+| 30d | 2026-10-21 | 0 | 101 | 10 | 67 | 67 | 203 |
+| last60d | 2026-09-21 | 0 | 150 | 12 | 86 | 84 | 271 |
+| 90d | 2026-08-22 | 0 | 187 | 14 | 107 | 89 | 331 |
+| last180d | 2026-05-24 | 0 | 321 | 14 | 150 | 97 | 505 |
+| 360d | 2025-11-25 | 0 | 514 | 14 | 220 | 118 | 722 |
+| last720d | 2024-11-30 | 0 | 872 | 14 | 438 | 157 | 905 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Lean lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:31:58Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:07:59Z._
