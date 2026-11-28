@@ -2,28 +2,28 @@ about:
   description: "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)"
   license: Apache-2.0
   homepage: https://lean.io
-  head: 65e0985
+  head: c1c7ef3
   archived: false
   latestVersion: "v2.4.0.1"
   latestRelease: "v2.4.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:11:04Z
+  collectedAt: 2026-11-28T09:31:12Z
 timeline:
   created: 2014-11-28
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-27
   lastVersion: 2017-08-08
   lastRelease: 2017-08-08
   lastPrerelease: 
 popularity:
-  star: 22744
+  star: 22764
   watcher: 490
-  fork: 5465
+  fork: 5470
   release: 8
-  contributor: 243
-  pullRequest: 6272
-  issue: 3893
+  contributor: 244
+  pullRequest: 6277
+  issue: 3912
 language:
-  C#: 35120004
+  C#: 35140147
   Python: 2018194
   Jupyter Notebook: 40106
   HTML: 17280
@@ -31,71 +31,71 @@ language:
   Shell: 4170
   Dockerfile: 1307
   Batchfile: 411
-totalBytes: 37212965
+totalBytes: 37233108
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 99
-    openPR: 8
-    closedIssue: 63
-    openIssue: 68
-    commit: 174
+    mergedPR: 86
+    openPR: 6
+    closedIssue: 71
+    openIssue: 75
+    commit: 182
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 145
-    openPR: 10
-    closedIssue: 88
-    openIssue: 92
-    commit: 275
+    mergedPR: 146
+    openPR: 9
+    closedIssue: 98
+    openIssue: 101
+    commit: 283
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 183
-    openPR: 12
-    closedIssue: 109
-    openIssue: 96
-    commit: 335
+    mergedPR: 186
+    openPR: 10
+    closedIssue: 119
+    openIssue: 105
+    commit: 343
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 328
-    openPR: 12
-    closedIssue: 159
-    openIssue: 104
-    commit: 521
+    mergedPR: 331
+    openPR: 11
+    closedIssue: 169
+    openIssue: 113
+    commit: 529
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 519
-    openPR: 13
-    closedIssue: 226
-    openIssue: 128
-    commit: 739
+    mergedPR: 522
+    openPR: 12
+    closedIssue: 236
+    openIssue: 137
+    commit: 747
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 873
-    openPR: 13
-    closedIssue: 443
-    openIssue: 164
-    commit: 907
+    mergedPR: 876
+    openPR: 12
+    closedIssue: 453
+    openIssue: 173
+    commit: 910
 total:
   release: 8
-  mergedPR: 5272
-  openPR: 14
-  closedIssue: 3572
-  openIssue: 321
-  commit: 13525
+  mergedPR: 5275
+  openPR: 13
+  closedIssue: 3582
+  openIssue: 330
+  commit: 13528
 ---
 path: /home/runner/.x-repo/github.com/QuantConnect/Lean
-collectedAt: 2026-11-27T10:11:37Z
+collectedAt: 2026-11-28T09:31:35Z
 loc:
   CSharp:
-    code: 464557
-    comments: 229849
-    blanks: 84064
+    code: 464827
+    comments: 229901
+    blanks: 84112
     files: 4487
   Python:
     code: 23113
@@ -168,9 +168,9 @@ loc:
     blanks: 0
     files: 67
 total:
-  code: 512503
-  comments: 291297
-  blanks: 92454
+  code: 512773
+  comments: 291349
+  blanks: 92502
   files: 5160
 ---
 date: "2026-11-23"
